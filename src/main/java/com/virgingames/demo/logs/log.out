@@ -1,0 +1,54 @@
+2021-07-26 11:07:857 INFO  BasePage :28 - Launching Chrome Browser 
+2021-07-26 11:07:805 INFO  HomePage :18 - Clicking on Log in LinkProxy element for: DefaultElementLocator 'By.xpath: //a[@title='Login']//parent::span//preceding-sibling::div//parent::header[@role='banner']/child::span/child::a[1]'
+2021-07-26 11:07:903 INFO  LoginPage :44 - Verifying Login Page TextProxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='app-main']/div[1]/div[1]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/form[1]/div[1]/a[1]/*[1]'
+2021-07-26 11:07:193 INFO  BasePage :28 - Launching Chrome Browser 
+2021-07-26 11:07:820 INFO  HomePage :18 - Clicking on Log in LinkProxy element for: DefaultElementLocator 'By.xpath: //a[@title='Login']//parent::span//preceding-sibling::div//parent::header[@role='banner']/child::span/child::a[1]'
+2021-07-26 11:07:05 INFO  BasePage :28 - Launching Chrome Browser 
+2021-07-26 11:07:204 INFO  HomePage :18 - Clicking on Log in LinkProxy element for: DefaultElementLocator 'By.xpath: //a[@title='Login']//parent::span//preceding-sibling::div//parent::header[@role='banner']/child::span/child::a[1]'
+2021-07-26 11:07:286 INFO  BasePage :28 - Launching Chrome Browser 
+2021-07-26 11:07:500 INFO  HomePage :18 - Clicking on Log in LinkProxy element for: DefaultElementLocator 'By.xpath: //a[@title='Login']//parent::span//preceding-sibling::div//parent::header[@role='banner']/child::span/child::a[1]'
+2021-07-26 11:07:670 INFO  BasePage :28 - Launching Chrome Browser 
+2021-07-26 12:07:507 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-26 12:07:422 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-26 12:07:445 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-26 12:07:837 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-26 12:07:974 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-26 13:07:555 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-26 13:07:658 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-26 13:07:219 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-26 13:07:119 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-26 13:07:950 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-26 14:07:964 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-26 14:07:399 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-26 14:07:918 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-26 14:07:657 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-26 14:07:25 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-28 00:07:114 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-28 00:07:646 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-28 00:07:885 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-28 00:07:363 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-28 00:07:05 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-28 00:07:961 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-28 00:07:40 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-28 22:07:592 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-28 22:07:248 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-28 22:07:922 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-28 22:07:230 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-28 22:07:770 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-28 22:07:939 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-28 22:07:685 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-28 22:07:556 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-28 22:07:484 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-28 22:07:449 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-28 22:07:939 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-28 22:07:571 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-28 22:07:573 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-28 22:07:451 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-28 22:07:366 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-28 22:07:615 INFO  BasePage :42 - Wrong browser name
+2021-07-28 22:07:969 INFO  BasePage :42 - Wrong browser name
+2021-07-28 22:07:71 INFO  BasePage :42 - Wrong browser name
+2021-07-28 22:07:119 INFO  BasePage :42 - Wrong browser name
+2021-07-28 22:07:193 INFO  BasePage :42 - Wrong browser name
+2021-07-28 22:07:534 INFO  BasePage :35 - Launching FireFox Browser 
+2021-07-28 22:07:899 INFO  HomePage :19 - Clicking on Log in LinkProxy element for: DefaultElementLocator 'By.linkText: Login'
